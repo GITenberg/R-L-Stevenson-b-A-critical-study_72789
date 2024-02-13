@@ -1,0 +1,43 @@
+_repo: R-L-Stevenson-b-A-critical-study_72789
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sargent, John Singer
+    alias: Sargent, John S.
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '36606'
+    url: http://www.gutenberg.org/2009/agents/36606
+    wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+creator:
+  author:
+    agent_name: Swinnerton, Frank
+    alias: Swinnerton, Frank Arthur
+    birthdate: 1884
+    deathdate: 1982
+    gutenberg_agent_id: '5786'
+    url: http://www.gutenberg.org/2009/agents/5786
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Arthur_Swinnerton
+description: ''
+gutenberg_issued: '2024-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72789'
+language: en
+pgterms:marc904: https://archive.org/details/rlstevensoncriti00swinuoft/
+pgterms:marc905: 20231126160041swinnerton
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Terry Jeffress, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bMartin Secker, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Criticism and interpretation'
+- !lcc 'PR'
+- GITenberg
+title: 'R. L. Stevenson : $b A critical study'
+url: http://www.gutenberg.org/ebooks/72789
