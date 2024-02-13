@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '36606'
     url: http://www.gutenberg.org/2009/agents/36606
     wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+covers:
+- cover_type: archival
+  image_path: 72789-h/images/cover.jpg
 creator:
   author:
     agent_name: Swinnerton, Frank
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5786
     wikipedia: https://en.wikipedia.org/wiki/Frank_Arthur_Swinnerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72789#R-L-Stevenson-b-A-critical-study
 gutenberg_issued: '2024-01-24'
 gutenberg_type: Text
 identifiers:
